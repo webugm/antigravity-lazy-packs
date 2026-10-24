@@ -6,6 +6,7 @@
 
 | 檔名 | 技能說明 | 觸發關鍵字 |
 | :--- | :--- | :--- |
+| **[00-安裝-Google Antigravity.md](./00-安裝-Google%20Antigravity.md)** | Google Antigravity 桌機版（Windows / macOS）初學者零基礎安裝與首次登入設定指南 | 「安裝 Antigravity」、「下載 Antigravity」、「桌機版安裝」 |
 | **[01-連接-clasp.md](./01-連接-clasp.md)** | Google Apps Script (clasp) 環境自動檢測、跨平台安裝 (Windows/macOS/iOS) 與專案建置指引 | 「連接 clasp」、「設定 clasp」、「開發 GAS」、「GAS 環境」 |
 
 ---
